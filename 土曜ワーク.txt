@@ -71,3 +71,9 @@ https://atcoder.jp/contests/abc374/tasks/abc374_b
 
 2025/01/18　B - Checkpoints
 https://atcoder.jp/contests/abc057/tasks/abc057_b
+
+2025/01/25　B - Daily Cookie 2
+https://atcoder.jp/contests/abc382/tasks/abc382_b
+
+2025/02/01　B - Tag
+https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_b
