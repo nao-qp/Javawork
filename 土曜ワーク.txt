@@ -77,3 +77,6 @@ https://atcoder.jp/contests/abc382/tasks/abc382_b
 
 2025/02/01　B - Tag
 https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_b
+
+2025/02/08 B - 高橋君とパスワード
+https://atcoder.jp/contests/abc032/tasks/abc032_b
