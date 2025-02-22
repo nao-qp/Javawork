@@ -80,3 +80,9 @@ https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_b
 
 2025/02/08 B - 高橋君とパスワード
 https://atcoder.jp/contests/abc032/tasks/abc032_b
+
+2025/02/15 B - Bumble Bee
+https://atcoder.jp/contests/abc022/tasks/abc022_b
+
+2025/02/22 A - 12435
+https://atcoder.jp/contests/abc390/tasks/abc390_a
