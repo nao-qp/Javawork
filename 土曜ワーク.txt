@@ -90,3 +90,5 @@ https://atcoder.jp/contests/abc390/tasks/abc390_a
 2025/03/01 C - Pigeonhole Query
 https://atcoder.jp/contests/abc391/tasks/abc391_c
 
+2025/03/08 C - Bib
+https://atcoder.jp/contests/abc392/tasks/abc392_c
