@@ -92,3 +92,6 @@ https://atcoder.jp/contests/abc391/tasks/abc391_c
 
 2025/03/08 C - Bib
 https://atcoder.jp/contests/abc392/tasks/abc392_c
+
+2025/03/15　C - Repeating 
+https://atcoder.jp/contests/abc378/tasks/abc378_c
