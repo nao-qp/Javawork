@@ -95,3 +95,6 @@ https://atcoder.jp/contests/abc392/tasks/abc392_c
 
 2025/03/15　C - Repeating 
 https://atcoder.jp/contests/abc378/tasks/abc378_c
+
+2025/03/22 C - Humidifier 3
+https://atcoder.jp/contests/abc383/tasks/abc383_c
