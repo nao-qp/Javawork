@@ -101,3 +101,9 @@ https://atcoder.jp/contests/abc383/tasks/abc383_c
 
 2025/04/05 C - Move It
 https://atcoder.jp/contests/abc360/tasks/abc360_c
+
+2025/04/12 C - Sierpinski carpet
+https://atcoder.jp/contests/abc357/tasks/abc357_c
+
+2025/04/21 C - Airport Code
+https://atcoder.jp/contests/abc349/tasks/abc349_c
