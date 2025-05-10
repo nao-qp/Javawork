@@ -4,8 +4,11 @@ Perfect String
 https://atcoder.jp/contests/abc249/tasks/abc249_b
 
 https://atcoder.jp/contests/abc230/tasks/abc230_b
+
 https://atcoder.jp/contests/abc252/tasks/abc252_a
+
 https://atcoder.jp/contests/abc252/tasks/abc252_b
+
 https://atcoder.jp/contests/abc322/tasks/abc322_b
 
 https://atcoder.jp/contests/abc170/tasks/abc170_b
@@ -110,3 +113,6 @@ https://atcoder.jp/contests/abc349/tasks/abc349_c
 
 2025/04/26 C - Perfect Bus
 https://atcoder.jp/contests/abc339/tasks/abc339_c
+
+2025/05/10 NumberPlace
+https://atcoder.jp/contests/abc327/tasks/abc327_c
