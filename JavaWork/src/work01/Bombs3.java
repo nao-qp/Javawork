@@ -53,11 +53,5 @@ public class Bombs3 {
 			//改行
 			System.out.println();
 		}
-		
-		
-		
-		
-		
 	}
-
 }
