@@ -21,21 +21,6 @@ public class PigeonholeQuery3 {
 				// 鳩が複数いる巣の数を1増やす
 				ans++;
 			}
-			
-//			// 後置デクリメントを使用しない場合
-//			if (count[pos[P]] == 2) {
-//				ans--;
-//				count[pos[P]]--;
-//			} else {
-//				count[pos[P]]--;
-//			}
-//			
-//			if (count[H] == 1) {
-//				ans++;
-//				count[H]++;
-//			} else {
-//				count[H]++;
-//			}
 
 			// 鳩Pの巣がHになる
 			pos[P] = H;

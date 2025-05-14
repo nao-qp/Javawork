@@ -1,6 +1,6 @@
-土曜ワーク問題
+解答問題一覧(一部抜粋)
+解いた問題の最新履歴のみ掲載しています。
 
-Perfect String
 https://atcoder.jp/contests/abc249/tasks/abc249_b
 
 https://atcoder.jp/contests/abc230/tasks/abc230_b
