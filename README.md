@@ -23,7 +23,7 @@
 
 ---
 
-### 問題一覧（[最新履歴ファイル](https://github.com/nao-qp/Javawork/blob/main/%E8%A7%A3%E7%AD%94%E5%95%8F%E9%A1%8C%E4%B8%80%E8%A6%A7.txt)抜粋）
+### 問題一覧（[履歴ファイル](https://github.com/nao-qp/Javawork/blob/main/solved_problems_list.txt)抜粋）
 
 | No. | 問題名     | 解答ファイル               |
 |-----|------------|----------------------------|
