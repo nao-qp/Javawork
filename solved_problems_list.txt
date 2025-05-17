@@ -116,3 +116,7 @@ https://atcoder.jp/contests/abc339/tasks/abc339_c
 
 2025/05/10 NumberPlace
 https://atcoder.jp/contests/abc327/tasks/abc327_c
+
+2025/05/17 A - A Healthy Breakfast
+https://atcoder.jp/contests/abc360/tasks/abc360_a
+
