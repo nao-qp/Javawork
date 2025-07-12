@@ -137,3 +137,6 @@ https://atcoder.jp/contests/abc403/tasks/abc403_c
 
 2025/07/05
 https://atcoder.jp/contests/abc290/tasks/abc290_c
+
+2025/07/12
+https://atcoder.jp/contests/abc286/tasks/abc286_c
