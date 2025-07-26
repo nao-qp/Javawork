@@ -143,3 +143,6 @@ https://atcoder.jp/contests/abc286/tasks/abc286_c
 
 2025/07/19 C - Max Even
 https://atcoder.jp/contests/abc272/tasks/abc272_c
+
+2025/07/26 C - Large Queue
+https://atcoder.jp/contests/abc413/tasks/abc413_c
