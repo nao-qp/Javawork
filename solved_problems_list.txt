@@ -144,5 +144,12 @@ https://atcoder.jp/contests/abc286/tasks/abc286_c
 2025/07/19 C - Max Even
 https://atcoder.jp/contests/abc272/tasks/abc272_c
 
+2025/07/26 C - Large Queue
+https://atcoder.jp/contests/abc413/tasks/abc413_c
+
+<<<<<<< HEAD
 2025/08/02 C - Chinese Restaurant
 https://atcoder.jp/contests/abc268/tasks/abc268_c
+=======
+
+>>>>>>> 55b506e1e8311efa43f9c16f2f77ac53c50fd234
