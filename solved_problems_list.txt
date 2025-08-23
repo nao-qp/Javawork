@@ -156,3 +156,5 @@ https://atcoder.jp/contests/abc250/tasks/abc250_c
 2025/08/16 C - Collision 2
 https://atcoder.jp/contests/abc243/tasks/abc243_c
 
+2025/08/23 C - Flavors
+https://atcoder.jp/contests/abc315/tasks/abc315_c
