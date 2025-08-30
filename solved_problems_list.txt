@@ -158,3 +158,6 @@ https://atcoder.jp/contests/abc243/tasks/abc243_c
 
 2025/08/23 C - Flavors
 https://atcoder.jp/contests/abc315/tasks/abc315_c
+
+2025/08/30 C - Route Map
+https://atcoder.jp/contests/abc236/tasks/abc236_c
