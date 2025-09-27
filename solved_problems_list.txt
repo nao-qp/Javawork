@@ -167,3 +167,6 @@ https://atcoder.jp/contests/abc229/tasks/abc229_c
 
 2025/09/13 C - Inverse of Permutation
 https://atcoder.jp/contests/abc217/tasks/abc217_c
+
+2025/09/27 C - Fair Candy Distribution
+https://atcoder.jp/contests/abc208/tasks/abc208_c
